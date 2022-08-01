@@ -1,4 +1,4 @@
-## Opa! Eu sou o Davi, seja bem-vindo ao meu perfil 👍
+## Ola! Eu sou o Davi, seja bem-vindo ao meu perfil 👍
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
