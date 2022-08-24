@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/dev-ivaD">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ivaD&layout=compact&langs_count=7&theme=dark"/>
+  <label>Languages:</label>
 </div>
 
 <div style="display: inline_block"><br>
